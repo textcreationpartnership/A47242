@@ -1,0 +1,616 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appendix to The unlearned alchimist wherein is contained the true receipt of that excellent diaphoretick and diuretick pill, purging by sweat and urine, commonly known by the name of Matthew's pill : with the exact manner of preparing and making of it, and the particular nature and virtue of the several ingredients, as also of the pill / by G. Kendall ...</title>
+            <author>Kendall, George, 1610-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47242</idno>
+            <idno type="STC">Wing K283</idno>
+            <idno type="STC">ESTC R8493</idno>
+            <idno type="EEBO-CITATION">12327950</idno>
+            <idno type="OCLC">ocm 12327950</idno>
+            <idno type="VID">59582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 189:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appendix to The unlearned alchimist wherein is contained the true receipt of that excellent diaphoretick and diuretick pill, purging by sweat and urine, commonly known by the name of Matthew's pill : with the exact manner of preparing and making of it, and the particular nature and virtue of the several ingredients, as also of the pill / by G. Kendall ...</title>
+                  <author>Kendall, George, 1610-1663.</author>
+                  <author>Mathews, Richard, d. 1661. Unlearned alchymist.</author>
+               </titleStmt>
+               <extent>[8], 54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Leigh and are to be sold by him ... and are to be sold by the author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1664?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Errata: p. 54.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions.</term>
+               <term>Alchemy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Korey Jackson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Korey Jackson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59582:1"/>
+            <pb facs="tcp:59582:1" rendition="simple:additions"/>
+            <p>AN APPENDIX TO THE Unlearned Alchimiſt, Wherein is contained the true Receipt of that Excellent <hi>Diaphoretick</hi> and <hi>Diure<g ref="char:EOLhyphen"/>tick</hi> PILL, purging by <hi>Sweat</hi> and <hi>Urine;</hi> commonly known by the name of <hi>Matthew's</hi> PILL.</p>
+            <p>With the Exact manner of preparing and making of it, and the particular nature and virtue of the ſeveral Ingre<g ref="char:EOLhyphen"/>dients, as alſo of the PILL.</p>
+            <p>By <hi>G. Kendall, M. A. Oxon.</hi>
+            </p>
+            <p>Licenſed and Entred according to the Act for Printing.</p>
+            <p>LONDON, Printed for <hi>Joſeph Leigh,</hi> and are to be ſold by him at his ſhop in Bazing-hall-ſtreet. And are to be ſold by the Author; as alſo the Pill, Antidote, and Oyl of Amber, at the Green Dragon in Ave-Mary Lane.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59582:2" rendition="simple:additions"/>
+            <pb facs="tcp:59582:2"/>
+            <opener>
+               <salute>Friendly Reader.</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Being ſomething concerned in the follow<g ref="char:EOLhyphen"/>ing <hi>Thetis,</hi> as being one with whom Mr. <hi>Richard Matthews</hi> left this Receipt of his Pill, and alſo did leave an injunction upon me with ſome others to ſee it made publick if he did not live to do it himſelf; and ſeeing it is here truly and faithfully brought to the Light, according to his deſire, I am willing therefore by way of owning the truth thereof, to give this ſhort and plain account, both how I came by it, and why it was not made publick before this time. Mr. <hi>Richard Matthews</hi> of known integrity, after he found the publick uſe and benefit of this Pill, was often taking care how to preſerve it in it's puri<g ref="char:EOLhyphen"/>ty after his deceaſe, ſometimes expreſſing his mind as followeth, That he would chooſe out ſix perſons that he could intruſt therewith, and leave it with them, and Authoriſe them after the deceaſe of any one of them, the Reſt to chooſe one in his Room, and ſo to be kept by ſuch a number, to the end it might not be ingroſt in the hands of any particu<g ref="char:EOLhyphen"/>lar perſon, expreſſing ſeveral times his fears, that if his Pill ſhould onely reſt at home, his folks would
+<pb facs="tcp:59582:3"/>ſpoil his Pill, which he was carefull to prevent, but his thoughts of the leaving of it were not effect<g ref="char:EOLhyphen"/>ed, but about <hi>57</hi> or <hi>58,</hi> he ſeverall times ſpake to me, and alſo to <hi>Ahaſuerus Fromanteel</hi> to come to him together, and he would Leave the Receit with us, uſing words to this purpoſe, that he was but Craſie and weak, and did not know how it might pleaſe God to deal with him, therfore preſt us ſeveral times to this thing before we went to him.</p>
+            <p>So when he was at little Chelſy, at one Mr. <hi>Mandy</hi> his houſe, we took an opportunity to give this our old friend a viſit; at which time we put him in mind of what he had formerly preſt us to, which he willingly at that time performd, &amp; gave us this in charge with it that we ſhould not take any Copy of it during his life, but read it as often as we would over, and when we had ſo done, then to ſeal it up with both our ſeals, and let it reſt in one of our hands, till God ſhould pleaſe to diſpoſe of him, or to this effect, then it to be our own; So it was ſealed up with my ſeal, and kept by Mr. <hi>Fromanteel</hi> untill the time: And after this about ſome two <hi>Months</hi> before his death, he gave to Mr. <hi>George Kendal</hi> another receit, with his addition, at which time he did refer, the one to the other to make it compleat: yet the makers of the dunghill bluſh not to affirm that he gave out no other Receit af<g ref="char:EOLhyphen"/>ter <hi>59.</hi>
+            </p>
+            <p>But when this Receit was given, it was not
+<pb facs="tcp:59582:3"/>that we ſhould make it publick, for we heard n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thing at all then of his intent as to that thing, Only that it might not be ingroſt, in the hands of any particular perſon.</p>
+            <p>But a little before his death, Mr. <hi>Kendal</hi> and Mr. <hi>Fromanteel</hi> meeting by accident at his houſe, being come there to viſit him, he then ſpake to them his mind about the publiſhing his Pill, and gave them ſome order about it, if he ſhould not live to do it himſelf. On the next day, I not knowing any thing what was paſt the day before about this buſi<g ref="char:EOLhyphen"/>neſs; I went to viſit my ſick Friend, at which time he told me, that it was well that I was come; for ſaith he here was <hi>Mr. Kendal, and Mr. Fromanteel,</hi> yeſterday, and I gave them order to publiſh the Receit, therefore if I ſhould not live to do it my ſelf, do you with them ſee that it be done, or words to this effect be uſed, but ſet us no time in which we ſhould do it: ſo that we were wholly at liberty as to time.</p>
+            <p>Now it cannot well be imagined, but if we were to make it publike, we might alſo make uſe of it our ſelves, and thereby gain knowledge alſo of what we did in making it publick.</p>
+            <p>But in our debates about the publiſhing of it, we found by good teſtimony, that there was an ingage<g ref="char:EOLhyphen"/>ment laid upon our friend <hi>Richard Matthew,</hi> that he ſhould not make it known to its enemies; therefore we at that time concluded rather to
+<pb facs="tcp:59582:4"/>make it known only to its friends, and ſuch as did make much uſe of it, that ſo we might anſwer our ingagement to him, and not violate his: in order to which we gave out ſeveral Copies, &amp; imparted the whole thing to them, that is, both the firſt Receipt, and the addition, and that freely, and refuſed it to none that we knew to be friends either to it or him: Which I ſuppoſe the widdow and her agent were a<g ref="char:EOLhyphen"/>ware of, and therefore did caſt up that dunghil in the beginning of their book, bespattering of us, to foreſtall us in our work, and to keep people from working by our Receipt, or paper directions as they cal it, to blind the eyes of the people, and to make the pearl in our hand as invallid as they could, and yet they themſelves were fain to be beholding to our receipt when they went to make it known, which I am very apt to beleive they would not have done, only they ſaw it was too publick before for their profit: I know not what elſe ſhould make them cla<g ref="char:EOLhyphen"/>mor ſo againſt the innocent, only the publickneſs of the Pill, and yet their cry is we break our truſt in not making it publick; and thus they fill the ears of the Readers with flatteries, and inſinuati<g ref="char:EOLhyphen"/>ons, and prejudice againſt them that have endea<g ref="char:EOLhyphen"/>voured both publick good, and the preſervation of the Pill in its purity: It is very oppoſite to me to be in contenſion, or to meddle with ſuch dirty ſpirits, only I am with others provoked to give this plain and breif accout, by that advantage they take at
+<pb facs="tcp:59582:4"/>our ſilence, to ſay reproachfully, that we may with ſhame ſit down, having nothing in truth to ſay for our ſelves in this matter; whereas I do ſolemnly profeſs to all to whom this may come, that the ac<g ref="char:EOLhyphen"/>count that I have here given, doth not vary one word from the very truth of the buſineſs; and what I have here ſaid, I have ſaid it in the words of truth, and ſoberneſs, and ſo deſiring the <hi>Reader</hi> if he pleaſe, but to compare their own ſayings, the one with the other, and it may eaſily be diſcovered where the ſnake lieth.</p>
+            <p>Mr. <hi>Fromanteel</hi> that is equally concerned with me in this buſineſs, is at preſent at a diſtance from <hi>London,</hi> but I am very confident he will freely ſubſcribe to the truth of what I have here aſſerted.</p>
+            <p>But I will not detain you from the inſuing diſ<g ref="char:EOLhyphen"/>courſe, where you will find the pearl taken out of the dunghil, and faithfully preſented to your view; as it was communicated both in the firſt Receipt, and the addition alſo. Thus having given you a brief but true account of our thus beſpattered acti<g ref="char:EOLhyphen"/>ons, in all plainneſs and honeſty, I ſhal leave them to be conſidered of by the impartiall <hi>Reader,</hi> be<g ref="char:EOLhyphen"/>cauſe truth ſeeks no corners, and ſhal ſubſcribe my ſelf.</p>
+            <closer>
+               <signed>Yours to my poor ability, and ready to ſerve any one, <hi>Jonathan Loddington.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59582:5"/>
+            <pb n="1" facs="tcp:59582:5"/>
+            <head>An <hi>Appendix</hi> to the unlear<g ref="char:EOLhyphen"/>ned Alchymiſt, &amp;c.</head>
+            <p>MEeting with a precious <hi>Pearl</hi> unhandſomly dealt with, and expoſed to the view of the world in a <hi>Dunghil,</hi> I could do no leſs, (the true owner making no haſt to challenge it) then take it out from amongſt the rubbiſh, and ſet it forth in its native luſtre and purity, as well as my skill, who am but a young practitioner, would inable me.</p>
+            <p>The <hi>Pearl</hi> is a receit of an excellent <hi>Diapho<g ref="char:EOLhyphen"/>retical</hi> and <hi>Diuretical Pill,</hi> comitted to the cuſ<g ref="char:EOLhyphen"/>tody of Mr. <hi>Richard Mathews,</hi> in the year 1655. by Mr. <hi>George Starkey</hi> the firſt that found it out. What uſe Mr. <hi>Mathews</hi> made of it for the publick good and benefit of mankind, his Book entiruled, <hi>The unlearned Alchymiſt,</hi> doth in ſome meaſure manifeſt, &amp; what emolument and profit he reaped by it, the poore and ne<g ref="char:EOLhyphen"/>ceſſitous in his life taſted, and his widow ſince
+<pb n="2" facs="tcp:59582:6"/>his death reapes the benefit of; though ſhe hath carried her ſelf very unworthy of that proviſion her husband made for her by meanes thereof, by abuſing her husbands friends to whom in love he comunicated the knowledg of it, wounding the credit and reputation of the deceaſed, in ſeeking to caſt dirt upon them: but it is a needleſs thing to ſpend time in wiping away that dirt: there is none that knows her and them, can give credit to thoſe falſe and frivolous aſperſions that ſhe beſpatters them withall; neither is there any that had knowledg of her deceaſed husband, that can be perſwaded to believe, that he would deale ſo unfaithfully with his freinds, as to give them a counterfeit in ſtead of a true receit.</p>
+            <p>M<hi rend="sup">r</hi> 
+               <hi>Mathews</hi> having a crazy and weak bo<g ref="char:EOLhyphen"/>dy, was ſolicited by divers (that had much experience of the vertue of the pill,) not to ſuffer it to dye with him, ſuppoſing him to be the firſt author of it (as he was generally re<g ref="char:EOLhyphen"/>puted to be.) In the year, therefore 1659, two of his intimate freinds, <hi>viz. Ahaſuerus Fromanteel,</hi> and <hi>Jonathan Loddington</hi> coming to viſit him, he gave them the receit, wiſh<g ref="char:EOLhyphen"/>ing them to read it over, and then to ſeal it up, and keep it: requiring no other condition of them, then not to open it whileſt he li<g ref="char:EOLhyphen"/>ved,
+<pb n="3" facs="tcp:59582:6"/>which take as it followeth.</p>
+            <p>Take Equal parts of <hi>India, Salt Peter,</hi> and the beſt <hi>White Rheniſh Tartar,</hi> and pound them, and drive them through a hair ſive, and in a yellow <hi>Pipkin,</hi> or new <hi>Chamberpot</hi> of Earth ſet upon <hi>Charcole,</hi> put it in by Spoon<g ref="char:EOLhyphen"/>fulls till all be burned White: this is called the Salt of <hi>Tartar:</hi> note, if it will not fire, touch it with a live Cole, and if it fire while this is warm, pound it to groſs pouder, and put it in a well glaſed <hi>Diſh,</hi> or which is better, a glaſs body, and let it ſtand covered with the Oyl of <hi>Turpentine</hi> two fingers high above the <hi>Tartar,</hi> ſtir it with a wooden <hi>Spa<g ref="char:EOLhyphen"/>tul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> ſupply it with Oyl that it be allwayes covered for ſix months, till it be open, and come to ſope, and be of a body the thickneſs of greaſe, or an Electuary: This is the true corrector of <hi>Opium,</hi> &amp; all vegetative Poyſons, and the greateſt Treaſure in the world, for which we bleſs God.</p>
+            <p>Take of this Corrector two pound, of <hi>Opi<g ref="char:EOLhyphen"/>um</hi> one pound, of white <hi>Hellebore</hi> in powder one pound, of <hi>Engliſh Liquoriſh</hi> one pound let all be ſufficiently incorporated at ſeverall times by a ſtrong arm in an iron mortar, be ſure the corrector have thorough ingreſſe, and have a care to chooſe <hi>Opium</hi> wrapped in the leaf, elſe it may be ſophiſticated, and
+<pb n="4" facs="tcp:59582:7"/>then it will looſe it's operation. This is in faithfulneſs the true Pil, whereof my bils and book ſpeak, and you have proved until <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1659, <hi>R. M.</hi>
+            </p>
+            <p>And whereas now it is affirmed, that Mr. <hi>Mathews</hi> made ſome addition to this Pill af<g ref="char:EOLhyphen"/>ter the giving forth this receipt, I ſhall give you that alſo, In <hi>November</hi> 1661, which was the Month before that wherein he died, he gave this alſo written with his own hand:</p>
+            <q>
+               <l>Take of the Corrector <hi>3</hi> pound.</l>
+               <l>Of Opium. <hi>1</hi> pound</l>
+               <l>Of white Hellebore, <hi>1</hi> pound.</l>
+               <l>Of black Hellebore, <hi>1</hi> pound.</l>
+               <l>Of Liquoriſh, <hi>1</hi> pound.</l>
+            </q>
+            <p>Incorporate them, &amp;c. as in the former, &amp; now to uſe M<hi rend="sup">rs</hi> 
+               <hi>Mathews</hi> own words: There is no man that knew her husbands faithful<g ref="char:EOLhyphen"/>neſs, or had intimate acquaintance with him, but will beleeve him againſt any contradicti<g ref="char:EOLhyphen"/>on whatſoever. And therefore as ſhe ac<g ref="char:EOLhyphen"/>knowledges the firſt to be a true receipt ac<g ref="char:EOLhyphen"/>cording to his practice, until <hi>December</hi> 1659. which wrought moſt of the eminent cures mentioned in his Book. So this muſt be tru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the laſt two years of his practice, except ſhe wil ſay her Husband was at the laſt grown
+<pb n="5" facs="tcp:59582:7"/>falſe and unfaithfull in what he declared to his friends with affirmations of much candor and ſincerity. Neither did he as he affirmed make this known, till he had made ſufficient proviſion for his wiſe to live upon without it, which being done, it was his reſolution had he lived, to have publiſhed it to the world, ſaying often he would not leave it in a par<g ref="char:EOLhyphen"/>ticular hand, for his people were ſo careleſſe, he knew they would ſpoil it.</p>
+            <p>Here you have the Pearl faithfully as he left it, and that it might not be diſeſteemed in regard of the paucity of the ingredients, or feared by reaſon of the dangerouſneſs of them, there being much malignity in ſome of them, and therefore cryed down by the Do<g ref="char:EOLhyphen"/>ctors, to whoſe gain this is, and hath been very prejudicial. I ſhall briefly give a touch upon the particulars thereof, and firſt for the corrector which is in the Receit affirmed to be the greateſt treaſure in the world, and doubtleſs it is a treaſure of excellent value if rightly prepared.</p>
+            <p>It conſiſts of a fixed <hi>Salt,</hi> and an eſſential oyl brought by a due fermentation into a Tertium <hi>Neutrum,</hi> diſtinct from either of them.</p>
+            <p>The Salt in the Receit is called the Salt of <hi>Tartar,</hi> for the powerfulneſs whereof, in
+<pb n="6" facs="tcp:59582:8"/>regard the Pill hath much credit upon Mr. <hi>Mathews</hi> account, I ſhall produce his teſti<g ref="char:EOLhyphen"/>mony. In the latter end of his book entitu<g ref="char:EOLhyphen"/>led, <hi>The Unlearned Alchymiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> he gives you a Receit, the like whereof he confidently af<g ref="char:EOLhyphen"/>firms never ſaw the Light for the good of mankind, and in the midſt of his high en<g ref="char:EOLhyphen"/>comium's of it, he hath this expreſſion, If thou (as blind as bayard) cry out of the ſtrong poyſon of the ſubjects, <hi>viz. Poppy and black Hellebore,</hi> thou ſnarling fool ceaſe, and firſt learn the power of Salt of <hi>Tartar,</hi> and do not bewray thy folly and ignorance, till thou have proved it's power, leſt thou give occa<g ref="char:EOLhyphen"/>ſion of perpetual laughter unto thoſe whom experience hath taught and informed. <hi>Sal ſa<g ref="char:EOLhyphen"/>pit Omnia,</hi> Salt makes all things ſavoury. Every one knowes it's vertue in preſerving things from putrefaction: and amongſt all fixed Salts there is none ſo powerful as that of Tartar, which <hi>Van Helmont</hi> calls, <hi>Sua inter alcalia reſpublica: Diaſcorides</hi> affirms it to be cleanſing, heating, binding, eating &amp; drying, It purifieth the blood, and purgeth the body (ſaith <hi>Mullerus</hi>) in the moſt deplorable diſ<g ref="char:EOLhyphen"/>eaſes. It maketh Medicines of it ſelf of ex<g ref="char:EOLhyphen"/>cellent vertues according to the ſeverall wayes of preparing of it, and mixed with o<g ref="char:EOLhyphen"/>ther <hi>ingredients</hi> it corrects the venome, and
+<pb n="7" facs="tcp:59582:8"/>exceedingly exalts the virtue of the ſimples to which it is joyned. It is of ſingular uſe in the extracting the tincture and eſſence of Vegetables. Neither is the Salt Peter (though it be here cheifly uſed for the burning of the <hi>Tartar,</hi>) without ſingular vertue, as may be a<g ref="char:EOLhyphen"/>bundantly ſeen in the writings of ſeveral who have treated of it. It reſiſts putrefactions, quencheth thirſt, incideth the <hi>Tartareous</hi> humours in the body, reſolveth coagulated blood, and eaſeth pain, and therefore is fre<g ref="char:EOLhyphen"/>quently uſed in Feavers; (and thoſe the moſt malignant) the Collect, Pluriſie, peripneumo<g ref="char:EOLhyphen"/>ny, ſtone of the Reins and Bladder, and obſtruction of the Liver, and meſereum, for theſe and other diſtempers it is variouſly prepared.</p>
+            <p>The <hi>Lapis Prunellae,</hi> the <hi>mineral Saccharat Chriſtal,</hi> the <hi>Corallate Niter,</hi> ſweet <hi>Salt, Pa<g ref="char:EOLhyphen"/>nacaea Duplicata,</hi> or <hi>Duplicate, Arcanum</hi> of <hi>Minſicht,</hi> the Spirit of <hi>Niter,</hi> the flowers and tincture, with other excellent medicines high<g ref="char:EOLhyphen"/>ly cryed up by many authors, have this for theire Baſis.</p>
+            <p>But all ſalts <hi>per ſe</hi> are of a ſharpe and cor<g ref="char:EOLhyphen"/>roſive nature, which is taken a way by the addition of, and fermentation with eſſential Oyles, til they be ſaciated with them, and be<g ref="char:EOLhyphen"/>come one body, and ſo they may be made an excellent <hi>Balſome.</hi>
+            </p>
+            <pb n="8" facs="tcp:59582:9"/>
+            <p>Now among all eſſential Oyles there is not any in the vegetable family doth ex<g ref="char:EOLhyphen"/>cel the Oyl or Spirit of <hi>Terebinth,</hi> or <hi>Turpen<g ref="char:EOLhyphen"/>tine</hi> which is admirably <hi>Diuretick,</hi> and <hi>Ab<g ref="char:EOLhyphen"/>ſterſive,</hi> healing both outwardly and inward<g ref="char:EOLhyphen"/>ly, as it is very well known to experienced Phyſicians and Chirurgeons. It is hot, emol<g ref="char:EOLhyphen"/>lient, diſcutient, opening &amp; purging. <hi>Beguinus</hi> ſaith it helpeth the Cough and ptyſick, it re<g ref="char:EOLhyphen"/>ſiſteth peſtilent <hi>Poyſon,</hi> purgeth the Stomach, provoketh <hi>Urine,</hi> expels the <hi>Stone,</hi> helpeth the <hi>Strangury,</hi> and <hi>Ulcers</hi> of the <hi>Bladder,</hi> it openeth and ſtrengtheneth the <hi>Nervous-parts,</hi> diſſolveth coagulated blood, and helpeth the <hi>Matrix.</hi> Large are the <hi>encomiums</hi> that by many are given of it, and it is plentifully to be had without danger of being adulterated.</p>
+            <p>With this Oyl the Salts are to be ſo long digeſted, till being fully opened they drink up thrice their quantity in weight, which you ſhall in the operation ſee them after ſome time greedily as it were thirſting for; with which they are to be ſupplyed till they are fully ſatiſfied; neither as yet is there a firm union, for after this the Salt will caſt forth all the Oyl again and betake it ſelf to the bottom, and then become obdurate like a coy Lover, that hath taken offence, ſeeming
+<pb n="9" facs="tcp:59582:9"/>hard to be reconciled: yet after this with many ſollicitations and much patience, it wil yeild to entertain, and embrace the Oyl again, and to have the <hi>Gordian</hi> knot knit which cannot be loſed. This is a ſix-months work at leaſt, yea I have by experience found it in ſome above a twelve-month before it hath been brought to perfection, and if ſome may have a more ſpeedy way, and can fa<g ref="char:EOLhyphen"/>cilitate their work, yet knowing the pro<g ref="char:EOLhyphen"/>verb, <hi>difficilia quae pulchra,</hi> I ſhall with the poet ſay,</p>
+            <q>Accipe tu facilem, Da miht Dificilem.</q>
+            <p>This is the corrector of all Vegetables; yea the moſt truculent and virulent ſtrip<g ref="char:EOLhyphen"/>ping them of all their <hi>Poyſonous</hi> and hurt ful qualities, and making them ſafe, and ex<g ref="char:EOLhyphen"/>cellently medicinable: This doth ripen the crudities, ſeparate the Gummouſnes, cor<g ref="char:EOLhyphen"/>rect the venome, and exalt the vertue of all ſimples, and makes them truly diffuſive of their vertue through all the parts of the body: where as if they be taken crude, or ac<g ref="char:EOLhyphen"/>cording to the Galenical way of preparati<g ref="char:EOLhyphen"/>on, they onely diſturb the ſtomack, irritate the Archeus of nature, which being enraged may caſt forth what is in the ſtomack and
+<pb n="10" facs="tcp:59582:10"/>bowels, &amp; ſo that which is bad being caſt out with the good, ſome benefit may by accident be obtained by them, yet not without preju<g ref="char:EOLhyphen"/>dice to the patient, the <hi>Faeces</hi> of the drugs re<g ref="char:EOLhyphen"/>maning behind, which after leave dangerous conſequences.</p>
+            <p>Let him that prepares this be ſure there be an intire union between the Oyl &amp; the Salt, and a tranſmutation of the Oyly Sulphur into a ſaline nature; which may be known by this as by a ſure ſign <hi>viz.</hi> if they will diſſolve in any liquor without ſeparating any Oylynes ſwiming on the toppe, and then is it made truly volatile, and may by an experienced hand be diſſolved, and diſtilled, &amp; of it a Spi<g ref="char:EOLhyphen"/>rit made of farre more excellent vertue.</p>
+            <p>The vegetables of which this Pill is com<g ref="char:EOLhyphen"/>poſed come next in place to be treated of, whoſe properties are in every <hi>Herbal</hi> ſet forth, yet in regard every one that ſhall de<g ref="char:EOLhyphen"/>ſire to make vſe of this Pill, may not be fur<g ref="char:EOLhyphen"/>niſhed with thoſe Books: I conceive it will be of uſe to give you a breif account of what Authors have writ of them.</p>
+            <p>The <hi>Opium</hi> and the two <hi>Hellebores:</hi> have admirable vertues in them, though in regard of a venemous quality, connatural to them, they have <hi>Nol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me tangere</hi> writ upon them without a due correction, but when that vi<g ref="char:EOLhyphen"/>rulency
+<pb n="11" facs="tcp:59582:10"/>is by a due correction extinguiſhed, they prove admirably efficacious for releife in, and the cure of many, not onely ordinary diſtempers, but aſtoniſhing and deſperate diſeaſes.</p>
+            <p>And firſt for the <hi>Opium,</hi> it is a great <hi>Nar<g ref="char:EOLhyphen"/>cotick,</hi> and therefore cryed down as a <hi>Stupe<g ref="char:EOLhyphen"/>factive Lethal ingredient</hi> by many phyſicians, and yet it is a cheif <hi>ingredient</hi> in many of their principal <hi>Antidotes;</hi> witneſs <hi>Mitridate, Di<g ref="char:EOLhyphen"/>aſcordium, Venice and London treacle, Phi<g ref="char:EOLhyphen"/>lonium, Laudanum,</hi> and other medicines, of which he that peruſes their <hi>Diſpenſatoryes,</hi> may furniſh himſelf with a catalogue: what they correct the malignity of the <hi>Opium</hi> with in thoſe medicines, let the makers of them ſeriouſly conſider, I am confident there is no way propoſed in thoſe Diſpenſatoryes that is ſufficient to do it; except the multi<g ref="char:EOLhyphen"/>plicity of ingredients do drown in part their virulency, together with part of their vertue: The <hi>Stupefactive</hi> venome of <hi>Opium</hi> conſiſts in the <hi>Sulphureous</hi> part of it, which by often <hi>made factions</hi> with this correctour and drying again is exhaled, and then it be<g ref="char:EOLhyphen"/>comes amicable to nature, and doth power<g ref="char:EOLhyphen"/>fully put forth the following vertues.</p>
+            <list>
+               <item>
+                  <p>1. There is an anodinous vertue eminent<g ref="char:EOLhyphen"/>ly
+<pb n="12" facs="tcp:59582:11"/>appearing in the operation of it, whereby it quietly aſſwages pain in a pleaſing and al<g ref="char:EOLhyphen"/>moſt inſenſible way, driving out what is of<g ref="char:EOLhyphen"/>fenſive. It is that <hi>Nepenthe Homer</hi> ſpeaks of.</p>
+                  <q>— <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> —</q>
+                  <p>It frees from Choller, &amp; trouble, and obli<g ref="char:EOLhyphen"/>terates all evils. <hi>Delenefica vi</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>moderatur et expultricem facultatem, iratumque archeum placat, Circea quaſi virga tactum.</hi> It moderates the ſenſitive and expulſive facul<g ref="char:EOLhyphen"/>ty, and pacifies the enraged <hi>Archeus,</hi> as it were with a charm, and this not by ſtupefying the ſences, or laying (as ſome frequently affirm by this Pill,) the diſtemper aſleep, as ſome of the following virtues wil make more mani<g ref="char:EOLhyphen"/>feſt.</p>
+               </item>
+               <item>
+                  <p>2. Upon this depends a ſomniferous vir<g ref="char:EOLhyphen"/>tue <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> aſſwaging pain it doth uſually bring to a quiet ſleep; not ſtu<g ref="char:EOLhyphen"/>pefying and hurtful when duly corrected, but moſt pleaſing and refreſhing to the ſen<g ref="char:EOLhyphen"/>ſes, making the ſpirits more freſh and lively after it.</p>
+               </item>
+               <item>
+                  <p>3 It is excellent for the ſtaying of all fluxes bloody, and dyſenterial as well as others. It
+<pb n="13" facs="tcp:59582:11"/>dryes up Rheumes and Cattarhes that deſtil and drop upon the Lungs, it ſtays a looſeneſs, &amp; corrects the immoderate working of any purging medicament.</p>
+               </item>
+               <item>
+                  <p>4. It hath a ſingular virtue in the repreſ<g ref="char:EOLhyphen"/>ſing, &amp; mitigating the violent fits of Agues &amp; Fevers, &amp; in curing of them. <hi>Trallianus</hi> in his 12th Book, Chap. 8. commends for ſingular antidotes in the cure of Feavers, thoſe which have <hi>Opium</hi> in their compoſition: and <hi>Galen</hi> himſelf in his book of the way of curing Fea<g ref="char:EOLhyphen"/>vers, doth affirm that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch is our Venice treacle (known to moſt to have <hi>Opium</hi> for one of the principal ingredients) to be of great efficacy for the removing of Feavers.</p>
+               </item>
+               <item>
+                  <p>5 It is eminently ſudorifique, purging the body by ſweat more effectually then any o<g ref="char:EOLhyphen"/>ther Vegetable whatſoever, and this not in a troubleſom offenſive way, but in a ſweet plea<g ref="char:EOLhyphen"/>ſing manner, compoſing the ſpirits without deſire of moving, or tumbling from place to place, (as is uſuall in other ſweating) where<g ref="char:EOLhyphen"/>by it purges the ſuperflous and offenſive hu<g ref="char:EOLhyphen"/>mours from all the parts of the body. And how effectual and ſafe ſuch diaphoreticks, are even in deplorable diſeaſes, few are igno<g ref="char:EOLhyphen"/>rant of. Now that the ſweat proceeds from
+<pb n="14" facs="tcp:59582:12"/>the taking of <hi>Opiate</hi> medicines is principally cauſed by the <hi>Opium,</hi> take Diaſcorides his teſtimony <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> The very ſmel of the <hi>Opium</hi> is ſpread through the whole body. The ſweat procured by that means oftentimes having the very ſent of the <hi>Opium.</hi>
+                  </p>
+               </item>
+               <item>
+                  <p>6 It is alſo <hi>Diuretick,</hi> purging by Urine, which is not ſo evident in the quantity, as the quality of it, being more high coloured, bringing away ſlimy ſtuff often like rags, and frequently cauſing both Gravel and ſtone to be voided.</p>
+               </item>
+               <item>
+                  <p>7 It hath alſo a purgative faculty, where there is need of it. Frequent experience (ſaith a learned doctor) hath taught us, that two or three grains of the <hi>Opiate Laudanum</hi> being given at night, hath purged both upwards &amp; downwards in the morning, which quality proceeds from the bitterneſs of it: <hi>Opium</hi> ſaith <hi>Quercetanus</hi> is bittter by reaſon of the Salt, which being ſeparated from its Oyl, or <hi>Nar<g ref="char:EOLhyphen"/>cotick Sulphur,</hi> is no leſs purging than all other bittter things, as <hi>Gentian, Centory,</hi> and the like: and <hi>Van Helmont</hi> makes mention of an <hi>Opiate</hi> medicine he gave in the evening, which cau<g ref="char:EOLhyphen"/>ſed a vomit the next morning, took away the <gap reason="missing" extent="1 page">
+                        <desc>〈1 page missing〉</desc>
+                     </gap>
+                     <pb n="15" facs="tcp:59582:12"/>and by ſpitting purged away the flegme</p>
+               </item>
+               <item>
+                  <p>8 It is very powerful for the expulſion of wind, and that to admiration. It aſſwages the torments, and gripings of the Stomach, and bowels, and drives out the wind, both <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> upwards and downwards. The true cauſe of all gripings (ſaith my author) is a preter-naturall acidity, which is hoſtile wherever it is found. Now acidity hath the Spleen for its ſeat, and is the fer<g ref="char:EOLhyphen"/>ment of the ſtomach, by which the digeſtion is performed, but if this acidity be over<g ref="char:EOLhyphen"/>exalted there, it cauſeth torments, and wring<g ref="char:EOLhyphen"/>ing gripings, uſually called, <hi>Orexis Stomach<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> &amp; if the leaſt acidity deſcend into the bow<g ref="char:EOLhyphen"/>els, <hi>Meſeraickes</hi> or meſſenteriall veſſels, not fully tranſmuted into a Saline nature, it there alſo cauſeth torments, and pain with ventoſi<g ref="char:EOLhyphen"/>ty, and flatulent winds. To theſe <hi>Opium</hi> is ſpecifically accomodated, (when corrected) both giving eaſe in the tormenting griping pains, and extinguiſhing the malignant aci<g ref="char:EOLhyphen"/>dity, which is the cauſe of them.</p>
+               </item>
+            </list>
+            <p>Theſe are the virtues that by authors of good eſteem are attributed to <hi>Opium,</hi> and if any of them ſeem to be oppoſite to, or con<g ref="char:EOLhyphen"/>tradicting of others, be not too haſty in re<g ref="char:EOLhyphen"/>jecting all, and paſſing a raſh ſentence on
+<pb n="16" facs="tcp:59582:13"/>the diſcourſe, ſeverall parts of the ſame ſim<g ref="char:EOLhyphen"/>ple are found by the experienced to have dif<g ref="char:EOLhyphen"/>ferent effects, the <hi>Sulphureous</hi> part may work one way, &amp; the Saline a quite contrary way, and the ſame thing may have different effects, according to the ſubject they work upon dif<g ref="char:EOLhyphen"/>fering in their temperatures; what binds one man, hath by experience been found to looſen another. <hi>Quicquid recipitur agit ad modum recipiertis.</hi> And this noble Vegetable being duly corrected, is made ſo friendly to nature, that it becomes wholly ſerviceable to it, aſſiſting it in the performing of that ſervice the patient that makes uſe of it ſtands moſt in need of.</p>
+            <p>The other ſimples in this compoſition that are powerful in operation, are the two <hi>Hel<g ref="char:EOLhyphen"/>lebores,</hi> of which alſo a large catalogue of ver<g ref="char:EOLhyphen"/>tues are in herballs deſcribed, the principall whereof I ſhall briefly lay down. They are both ſaid to be dry and hot in the third de<g ref="char:EOLhyphen"/>gree, and the black hotter than the White; this cleanſeth the ſtomach by vomit, the o<g ref="char:EOLhyphen"/>ther the bowels by ſtool, and both purge a<g ref="char:EOLhyphen"/>way ſuperfluous humours. They were an<g ref="char:EOLhyphen"/>tiently eſteemed as the appropriate medicine to purge away melancholly diſtempers, and cure Madneſs that proceeded from them, as appeares by <hi>Martial.</hi>
+            </p>
+            <pb n="17" facs="tcp:59582:13" rendition="simple:additions"/>
+            <q>
+               <l>Dauda eſt Hellebori multo pars Maxima avaris;</l>
+               <l>Neſcio an Anticyram ratio illis deſtinet omnem</l>
+            </q>
+            <p>I know not (ſaith he) whether the whole ſland <hi>Anticyra</hi> be not by reaſon appointed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o bring forth Hellebore to cure the mad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs of covetous perſons: And certainly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here are none more mad than thoſe who <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake Gold their God, and Gain their God<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſs; that prefer Earth before Heaven, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>azard the perpetual loſs of their ſouls, for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he obtaining a little wealth to look upon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly, for to make uſe of it they have not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earts. Such mad men are they, that for a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade in the world have ſold their liberties, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d brought themſelves into bondage: and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mad are they that will part with Truth and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighteouſneſs, wherein the Image of Chriſt <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nſiſts, to ſcrape together a little pelf, which <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey neither ſtand in need of, or can expect <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng to enjoy. I wiſh her that challenges the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le propriety in this Pill, to be made ſen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le of the indirect means ſhe hath uſed, by <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nting lies and ſlanders to defame others, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d other under-hand dealings, that ſhe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight thereby ingroſs all into her own <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nds; and being convinced of her own <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtemper, I ſhall adviſe her to uſe a right
+<pb n="18" facs="tcp:59582:14"/>way of recovery, not Hellebore which the Poet points unto, but what the great Phyſi<g ref="char:EOLhyphen"/>cian preſcribes to the Rich man, <hi>Luk.</hi> 18.22. or the courſe that <hi>Zacheus</hi> took, <hi>Luk.</hi> 19. But to return to the matter in hand, the Helle<g ref="char:EOLhyphen"/>bores are not onely a medicine for the phren<g ref="char:EOLhyphen"/>zy, but commended alſo for the opening the Liver, and healing the imperfections thereof, purging the Head, and curing the Meagrim<g ref="char:punc">▪</g> 
+               <hi>Parkinſon</hi> tells us of a Helleboriſme much commended by <hi>Mathiolus,</hi> and <hi>Faber</hi> gives a high commendation of his <hi>Arcanum purga<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> radicis Hellebori,</hi> which in an admirable man<g ref="char:EOLhyphen"/>ner purges the head and ſtomach, which are the principal fountain and ſeat of the giddi<g ref="char:EOLhyphen"/>neſs and meagrim, and that without trouble or fear of any convulſion, for the Hellebore in its diſſolution loſeth whatſoever venome it had naturally in it, and is wonderfully al<g ref="char:EOLhyphen"/>tered. And theſe Pills, ſaith a learned Writer do alone cure the Meagrim ſafely, ſpeedily and pleaſantly. The ſame Author tells us <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Pill which he calls, <hi>Extractum ſeu Chyliſm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> catholicum &amp; holagogum,</hi> which brings awa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> promiſcuouſly all peccant humors, that hat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both the Hellebores for part of their ingre<g ref="char:EOLhyphen"/>dients. Being well corrected and rightly pre<g ref="char:EOLhyphen"/>pared they are exalted in their virtues for th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cure not onely of the diſeaſes mentioned a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ready,
+<pb n="19" facs="tcp:59582:14"/>but many others alſo, which by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xperienced in phyſick they are reckoned ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ropriated unto; as Colds and Coughs <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ough of long continuance: Cramps, Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulſions, Sciatica, Gout, ſhrinking of the Si<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ews, Tooth-ach, Dropſie, Epilepſie or Fal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng Sickneſs, the Jaundice black and yellow, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eproſie, pains in the belly, Ruptures and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orms: the weight of a two-pence of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owder (ſaith an approved Author) cureth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Ague. But thus much briefly of the two <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellebores, which I have joined together as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing efficacious for the cure of the ſame diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſes.</p>
+            <p>The laſt of the ingredients is the Liquo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice, which (as <hi>Galen</hi> ſaith) is ſweet, having <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> little aſtriction joined with it, making it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emperate in heat and aſtriction, that is the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eareſt to our temper, but becauſe the ſafety <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd goodneſs of it is very well known: And <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecauſe an inconſiderate quantity thereof is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken in a Pill, not likely to have any emi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent operation diſtinct from the other <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pecies, and was added by Mr. <hi>Mathews</hi> (as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath told me) chiefly to make up the bulk, ſhal therefore ſay no more of it.</p>
+            <p>The powerfull ingredients of this Pill (you <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e) are few, and thereby it is rendred more <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fficacious, for where multitudes are put into
+<pb n="20" facs="tcp:59582:15"/>a compoſition, they prove uſually but as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> clog to each other to hinder their proper o<g ref="char:EOLhyphen"/>perations.</p>
+            <p>You have here the Pil anatomiſed, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſcription of the ſeveral parts whereof <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſiſts, with their power and vertue, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſingly by themſelves, they are of ſuch effica<g ref="char:EOLhyphen"/>cy as you have-here ſet down: <hi>Vis unita fort<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or.</hi> What will they not do when united, and not barely united, but corrected of thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> venemous qualityes, and enobled with ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> powerful <hi>a Balfome,</hi> as exalts their vertue to the utmoſt, making them truely freindly to our natures.</p>
+            <p>And ſurely though they do not attain to be a univerſal medicine, yet they are of a very large extent, witneſs the catalogue of cures performed by them, put out by Mr. <hi>Mathews<g ref="char:punc">▪</g>
+               </hi> Neither are the Pills made by others accor<g ref="char:EOLhyphen"/>ding to the directions which are here laid down deſtitute of teſtimony of their ſucceſſe in the cure of the moſt of the diſeaſes menti<g ref="char:EOLhyphen"/>oned in the bills given forth with them, divers have brought me relations of ſingular benefit they have reaped by them they had from me of my preparing: ſome have been freed from Agues and Feavers by them, o<g ref="char:EOLhyphen"/>thers cured of Colds and Coughs, ſome that had pains in their Limbs that they could not
+<pb n="21" facs="tcp:59582:15"/>without great difficulty walk a coits caſt or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wo, by the taking 2 or 3 Pils, have been able with eaſe to walk a mile or two, others that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave had ſtones brought from them to admi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation: An ancient woman lately brought <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hree ſtones to ſhew me, that by the taking <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or 3 of my Pils ſhe had come from her. A <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilkman who is very ancient was troubled with making of bloody water, in ſuch a man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er that he could not walk a bow ſhot but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was afflicted with it in a very painful man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, was by my Pils perfectly cured of that diſtemper, though he was hardly perſwaded <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o take them, or continue the uſe of them, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aving been told by ſome expert in Phyſick, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat his grief was incurable: the ſame perſon was lately troubled with a fit of the Stone, that he lay roaring for pain, and then taking <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pill, he was brought to a gentle ſweat and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt, and in his ſleep had a ſtone came from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im inſenſibly, of the bigneſs of a ſmall bean with the raking whereof he was ſo ſore after<g ref="char:EOLhyphen"/>wards, that for 2 or 3 dayes he could not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old his water, and by the taking of a Pill or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wo more he was cured of that alſo. The wife of the ſame man a very antient woman, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aving been long troubled with an Aſthma, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f which ſhe could get no cure, was by this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill ſhe had from me ſet at liberty.</p>
+            <pb n="22" facs="tcp:59582:16"/>
+            <p>They which ſell of my Pils can tell you of many examples. One that ſells my Pills in <hi>London,</hi> had lately a gallant came to him, who affirmed that by a quarter of an ounce of Pils of my making, he was cured of an Ague when the Doctors had done their utmoſt endea<g ref="char:EOLhyphen"/>vours to remove it; and at laſt had given him the Jeſuites Powder, their <hi>Ultimum refugium</hi> in ſuch caſes, but all proved fruitleſs. I call it their <hi>Ultimum refugium,</hi> becauſe a Neigh<g ref="char:EOLhyphen"/>bor of mine, a Gentleman, of a ful purſe, late<g ref="char:EOLhyphen"/>ly ſick of an Ague, had for a long ſpace the Doctors come every day to viſit him, firſt one ſingle, and after a while a couple, till at length his wife ſeeing them to ſpin out the time for their own gain, begun to grow ſomething impatient, &amp; then they preſcribed this powder, under the title of <hi>Pulvis Peruvi<g ref="char:EOLhyphen"/>anus.</hi> The ſame perſon had a Gentleman told him in brief, I could tell you of wonders wrought by the Pills, I had of you (which were of my preparing.) A poor man lately came to his ſhop for ſome Pills, and told that he had ſpent what he had upon the Phyſicians without help, and now he was adviſed by a learned Doctor to get of thoſe Pills, for if they would not cure him nothing would.</p>
+            <p>So high an opinion had this learned man of the Pill, that he preferred it before any o<g ref="char:EOLhyphen"/>ther
+<pb n="23" facs="tcp:59582:16"/>medicine the Apothecaryes ſhop could afford.</p>
+            <p>This cauſes me to remember another rela<g ref="char:EOLhyphen"/>tion I had from an honeſt Miniſter who hath had many Pills from me, whom being reco<g ref="char:EOLhyphen"/>vered from a deſperate diſtemper by the uſe of the Pill, a doctor of his acquaintance came to viſit, he related to the Doctor in what condition he had been, with the meanes of his recovery; the other who at other times hath been very laviſh in exclaiming againſt this Pill, gave him this ſerious counſel. Let me adviſe you as a friend (ſaith he) to make uſe of this Pill never but in caſes of extremi<g ref="char:EOLhyphen"/>ty; which is in effect thus. In ſmall and or<g ref="char:EOLhyphen"/>dinary diſtempers make uſe of our preſcrip<g ref="char:EOLhyphen"/>tions, but being you are my friend, let me adviſe you when your life lyes at the ſtake, and comes to be hazarded, truſt not to them, but make uſe of this as a more powerfull me<g ref="char:EOLhyphen"/>dicine.</p>
+            <p>I might multiply examples of ſeveral cures wrought by them in perſons of all ages and ſexes, women with child &amp; ſome in child-bed, who by their midwives and freinds &amp; Phyſi<g ref="char:EOLhyphen"/>cians alſo have been eſteemed paſt recovery, yet by this means principally God hath been pleaſed to raiſe them up. I could tell you their names and places of habitation if it were re<g ref="char:EOLhyphen"/>quiſite.
+<pb n="24" facs="tcp:59582:17"/>I might alſo preſent you with the re<g ref="char:EOLhyphen"/>lations I have had from perſons that have made uſe of my Pills in ſeveral counties, as <hi>Lincolnſhire, Dorſetſhire, Devonſhire, Northam<g ref="char:EOLhyphen"/>tonnſheire, &amp;c.</hi> Where a bleſſing hath gone a<g ref="char:EOLhyphen"/>long with Pills of my preparing in the doing of many eminent cures. But I forbear to ſet down particulars, as affecting brevity: Theſe may ſerve to make it evident to all perſons that are not incurably poſſeſt with prejudice, that we have the true Receipt of the Pil, with the manner of preparing it, whatever is or may be aſſerted to the contrary; and we have been directed and aſſiſted by Mr. <hi>An<g ref="char:EOLhyphen"/>drews,</hi> a man of known integrity; who made the Pill for Mr. <hi>Mathews,</hi> before ever he made it himſelf, and was for ſome time his ſole o<g ref="char:EOLhyphen"/>perator, when he began to be in credit for the Pill. Yea Mr. <hi>Starkey</hi> who was the firſt inventor of the Pill, hath not been wanting in declaring to us, not only the Manual ope<g ref="char:EOLhyphen"/>ration, but alſo the Nature of it, and wayes to improve it, and alter it as need requireth</p>
+            <p>I could give a particular anſwer to thoſe ſcandalous perſonall reflections, that Mrs. <hi>Mathews</hi> bills, advertiſement, and book ſwarmes with, and ſhew the falſhood and invalidity of them, but this may prove nau<g ref="char:EOLhyphen"/>ſeous to unconcerned perſons, and therfore
+<pb n="25" facs="tcp:59582:17"/>I ſhal be ſilent in it, and only declare that out of a love to peace and truth, there hath been by my ſelf, &amp; the others ſhe exclaims againſt, a hearing deſired, with a promiſe, that if it could be made appear; to the judgement of any indifferent rationall man, that we had either injured her or dealt any ways unfaith<g ref="char:EOLhyphen"/>fully, that we would acknowledge the wrong, and make ſuch ſatiſfaction, as by ſuch perſons ſhould be judged expedient; but this hath been alwayes refuſed.</p>
+            <p>I ſhall now breifly ſpeak ſomething to the manner of taking of this Pill, with the way of it's working. The Pill is ordinarily to be taken at night when going to bed, with a cup of Sack, White-wine, Ale or Beer drank after it, to carry it down, the <hi>Veh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cle</hi> is to be appropriate to the diſeaſe, if it be for an Ague a cup of Sack, or ſome cordial liquor is beſt; if for a Fever without an Ague a cup of White-wine is more proper; if for purging the Reins and Bladder of Stone or Gravel, White wine is the beſt, being the more <hi>Diu<g ref="char:EOLhyphen"/>retick:</hi> here diſcretion is to be made uſe of, as alſo in the quantity of the doſe, which muſt be according to the age, temperature, and ſtrength of the patient. Reaſon wil teach you to give a very ſmall quantitity of it to a child, whereas 10, 12 or 14 graines is an ordinary doſe for a man or woman, yea
+<pb n="24" facs="tcp:59582:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:59582:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="26" facs="tcp:59582:19"/>20 grains (if it be well prepared, and the vi<g ref="char:EOLhyphen"/>rulency of the ſimples, by frequent made-factions, and exſiccations be extinguiſhed) will not diſturb or afflict the Patient with troubleſome ſymptomes; neither then is it the leſs efficacious, as ſome practitioners fondly conclude who ſuppoſe that medicine to be beſt, which doth with a ſmall quantity diſturb nature, and manifeſt its violent ope<g ref="char:EOLhyphen"/>ration; for the vertue of a medicine conſiſts not in the <hi>Vomative, laxative,</hi> or deleteriall qualities thereof which diſturb nature, and enrage the <hi>Ancheus,</hi> cauſing tumults and per<g ref="char:EOLhyphen"/>turbations: but their excellency conſiſts in their amicable and pleaſing ſerviceableneſs to nature; whereby at the ſame time they refreſh, and recreat the Vitall Spirits, and diſſolve all preternaturall excrements, and coagulations.</p>
+            <p>It is the commendation of a good medi<g ref="char:EOLhyphen"/>cine, to cure not only <hi>tuto &amp; cito,</hi> ſafely and ſpeedily, but alſo pleaſantly; and then doth the medicine do it's work the beſt when it is ſo prepared, that a large doſe of it may be taken with the leaſt <hi>Perturbation</hi> of the head and ſtomach, which make ſome raſh ignorant perſons to dislike it and lay it aſide as void of vertue, to ſuch I ſhal invert the or<g ref="char:EOLhyphen"/>der of the Poets choice.</p>
+            <pb n="27" facs="tcp:59582:19"/>
+            <q>Da Mihi tu Facilem, accipe difficilem.</q>
+            <p>It is not neceſſary to tye the patient to a<g ref="char:EOLhyphen"/>ny rules of diet in the time of uſing this Pill; only let the food be nutritive, and the drink cordiall, both uſed with moderation.</p>
+            <p>The operation of this Pill is generally by ſweat, where there are many peccant humors to be purged out, which in ſome perſons are more inſenſibly tranſmitted through the pores than in others. It is the opinion of ſome able doctors, that thin lean bodyes that ſweat leaſt by an inſenſible tranſpiration, ſend ſorth more in vapors then groſs and corpulent bo<g ref="char:EOLhyphen"/>dies that ſweat moſt violently, and this they affirm they have found true by infallible de<g ref="char:EOLhyphen"/>monſtration, having at ſeverall times taken the weight of ſuch perſons, with the weight of their food and excrements. If therefore there be not ſuch violent ſweating wrought by it in thee as in others, do not preſently conclude it to be of no efficacy, but have a little patience in the uſe of it, and probably thou mayeſt have a cure wrought in a more inſenſible way.</p>
+            <p>And here I cannot but admire at the impa<g ref="char:EOLhyphen"/>tience and folly of many perſons, who be<g ref="char:EOLhyphen"/>cauſe they have not a perfect cure wrought
+<pb n="28" facs="tcp:59582:20"/>by the taking of 2 or 3 Pills, ſometimes by one, will lay it aſide as altogether inefficaci<g ref="char:EOLhyphen"/>ous; when as if a Doctor preſcribes a courſe of Phyſick to them, they will be punctual in obſerving his rules many weeks, yea months, and not reap much ſenſible benefit by it. All the Doctors art and skill is grounded on his own or other mens experience, whoſe works and writings he gives credit to, upon a bare affirmation; yea the knowledge of the ver<g ref="char:EOLhyphen"/>tue and efficacy of all ſimples, as alſo com<g ref="char:EOLhyphen"/>pound medicaments, hath it not experience for the Originall? and ſhall not thoſe expe<g ref="char:EOLhyphen"/>riences that are evident before our eyes, and which we have certain teſtimony of prevail asmuch with us, as the bare affirmations of others, who it may be (and often is ſo) ſpeak not from any ground at all, but their own i<g ref="char:EOLhyphen"/>maginations?</p>
+            <p>It is cauſe of mourning to behold both Doctors and the generallity of people de<g ref="char:EOLhyphen"/>luded by them, to continue ſo heatheniſh as to give more credit to <hi>Galen</hi> and <hi>Hypo<g ref="char:EOLhyphen"/>crates</hi> for the welfare of their bodies, than the word of God himſelf for the good of both ſoul and body. But there is a vail which is not yet taken away, that blinds the eyes of men both in this and other things.</p>
+            <pb n="29" facs="tcp:59582:20"/>
+            <p>I do not go about to perſwade any to make uſe of it ſo long without viſible ſucceſs as to have it come to the charge of an Apothecarys bill, or as a Doctors viſit. I never yet knew any that had patience, to take ſo much as comes to the ordinary price of a ſingle po<g ref="char:EOLhyphen"/>tion, but have thought their Mony well be<g ref="char:EOLhyphen"/>ſtowed.</p>
+            <p>My firſt acquaintance with this Pill aroſe upon my being viſited with the gout, my pain was very great, and my lameneſs ſuch that I could not walk in my chamber without crutches. The firſt Pil I took wrought ſome mi<g ref="char:EOLhyphen"/>tigation of the pain, but I continued it a good ſpace before I had a perfect cure. I firſt caſt away one crutch, and after a while the other, neither left I the uſe of the Pill, but as often as I either felt or feared the fit approaching, I made uſe of the Pill again; and ſo with the diligent uſe of it, my diſeaſe is totally eradi<g ref="char:EOLhyphen"/>cated, and bleſſed be God, I have not had a fit of it, for ſome years paſt.</p>
+            <p>My wife alſo being ſorely afflicted with the <hi>Meagrim</hi> and extream pain in her head, ſeeing the benefit I had reaped by it, was perſwaded to the uſe of it, and though at firſt or ſecond Pill, ſhe found little amend<g ref="char:EOLhyphen"/>ment, yet at 7 or 8 times taking of it ſhe had a full cure.</p>
+            <pb n="30" facs="tcp:59582:21"/>
+            <p>And whereas it is the fear of ſome, that the frequent uſe of them will beget ſuch a habit in the body, that they cannot live healthfully without them, (as it is with thoſe that accuſtomed themſelves to Tobacco,) my own experience can evince the contrary, for I may ſafely ſay, that neither I or my wife take the quantity of a quarter of an ounce in a year, ſuch is the goodneſs of God to us, that we enjoy far more health then we have done for a long time formerly, and never have recourſe to theſe, except when ſome cold or other diſtemper ceaſes upon us.</p>
+            <p>The great objection againſt this Pill, is, that it generally bindes the body, though ſome are looſened by it: for your ſatisfacti<g ref="char:EOLhyphen"/>on in that particular, I refer you to Mr. <hi>Mathewes</hi> Book, in the 76 and 77 ſections or <hi>Paragraph.</hi>
+            </p>
+            <p>This by the variation of ſome of the in<g ref="char:EOLhyphen"/>gredients, (as by a skilful hand may be done) may be amended.</p>
+            <p>If more particular directions for the uſe of this Pil be deſired, I refer you to the rules and examples laid down by Mr. <hi>Mathews</hi> in his Book, to which in what I write, I deſire to be ſerviceable, not deſtructive; it being his requeſt to us in his ſickneſs, that we ſhould publiſh this Receipt with his Book.</p>
+            <pb n="31" facs="tcp:59582:21"/>
+            <p>This therefore may be adjoined to it as an <hi>Appendix,</hi> and will do more ſervice to the publick than the Dunghill there in<g ref="char:EOLhyphen"/>truded, which being according to its name, it is high time, the Scavenger ſhould carry it out from amongſt the habitations of civil people.</p>
+            <p>And now as a cloze I ſhall give you the copy of the Receipt, as it was given to me by the firſt author of it, Mr. <hi>George Starkey.</hi>
+            </p>
+            <p>
+               <hi>Rec.</hi> The beſt <hi>Tartar,</hi> and <hi>Salt-Peter</hi> e<g ref="char:EOLhyphen"/>qually ballanced, <hi>Pulveriſed,</hi> and mixt, of each a pound, or at pleaſure, put the ingre<g ref="char:EOLhyphen"/>dients in an iron kettle that is clean; fire them with a coal, and they will burn with an impetuous noiſe, after the fluſhing is over ſtir the Maſs with an iron rod diligently till the redneſs ceaſe, and the Maſs will become a very white Salt, of the nature both of the <hi>Tartar,</hi> and Salt <hi>Niter,</hi> which is a noble Salt, and gives a very efficacious <hi>Alkali.</hi>
+            </p>
+            <p>Or if you rather deſire the <hi>Alkali</hi> of <hi>Tartar</hi> alone, take of it what quantity you pleaſe, and ſend it either to the Glaſs-houſe; or Pot-houſe to calcine, and it will become a white cake of Salt.</p>
+            <p>But in my Pyrotechny aſſerted, I gave rea<g ref="char:EOLhyphen"/>ſon why <hi>Tartar</hi> calcined with <hi>Saltpeter</hi> is no
+<pb n="32" facs="tcp:59582:22"/>leſs inferiour to (in ſome caſes excelling) the Salt of <hi>Tartar (Per<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe)</hi> by bare concre<g ref="char:EOLhyphen"/>mation</p>
+            <p>To make which the more effectual as to its <hi>Alkaliſate</hi> ſtrength, take of this <hi>Tartar</hi> ſo calcined by <hi>Niter,</hi> and in a ſtrong cruſible let it flow in a wind Furnace, pour it out when it is fully melted, and you ſhall have an <hi>Al<g ref="char:EOLhyphen"/>kaliſate</hi> maſs, of a blewiſh colour like pot<g ref="char:EOLhyphen"/>aſh, eaſily melting in the air; of a moſt ex<g ref="char:EOLhyphen"/>cellent <hi>Alkaliſate</hi> ſharpneſs, which Salt ſo prepared, is recommended to the ſtudious Artiſt.</p>
+            <p>This, or the Calcinate of bare <hi>Tartar,</hi> let the Artiſt take (as he pleaſeth) and diſſolve in boyling water, which after agitation (twice or thrice) being ſettled and decanted clear, let it be boiled up to a drineſs, which is the fixt Salt, or <hi>Alkali</hi> of <hi>Tartar</hi> purified.</p>
+            <p>To make it clear and white as Chriſtal: Ha<g ref="char:EOLhyphen"/>ving diſſoived the <hi>Lixivium</hi> from the <hi>Alkali</hi> of either the Salt of <hi>Tartar</hi> ſingle, or as was taught with Salt Niter, by Concremation and Fuſion: Let then an infuſion of quick-lime be made, of which being ſettled, let equal part in reſpect to the <hi>Lixivium</hi> be added, and the mixture let ſtand about ten or fourteen daies covered with a cloth from duſt, then decant all the liquor, which will be clear like
+<pb n="33" facs="tcp:59582:22"/>to running water, and the Salt when dry be<g ref="char:EOLhyphen"/>ing boyled in a clean veſſel (from which it ſhal take no tincture) will be white as the pu<g ref="char:EOLhyphen"/>reſt Criſtal.</p>
+            <p>Of this Salt (made very dry) take a pound, or what quantity you pleaſe, of Oyl of Tere<g ref="char:EOLhyphen"/>rebinth, or any other diſtilled Oyl three pound, put the Salt into a veſſel that is firm and broad, pour on ſo much Oyl as will co<g ref="char:EOLhyphen"/>ver the Salt from the air, let it ſtand, and with a peſtle ſtir the maſs daily twice or thrice, ſo will the the Oyl gradually be drunk up of the Salt, which muſt again be renewed and daily ſtirred and ground together till the whole three pound in reſpect to one of Salt be imbibed; the whole will become a white Cream by the union of the Salt and Oyl together. This is at leaſt ſix months work.</p>
+            <p>In this union of the Oyl and Salt the Al<g ref="char:EOLhyphen"/>kaliſate corroſiveneſs of the one is allaied by the unctuoſity of the other, and both made temperate, to the correcting of the maligni<g ref="char:EOLhyphen"/>ty and venome of the moſt truculent vege<g ref="char:EOLhyphen"/>tables.</p>
+            <p>Your Cream or Corrector made as before is taught, and having ſtood its time till it will diſſolve in any liquor, without ſeparating the leaſt oylineſs at the top, which is a ſure ſign
+<pb n="34" facs="tcp:59582:23"/>of an intire union of both, and a tranſmuta<g ref="char:EOLhyphen"/>tion of the oylie Sulphur into a Saline nature. Take of your beſt <hi>Opium</hi> (if very pure) if not diſſolved, filtred and by evaporation drawn to the conſiſtency of a Rob, one pound or what you pleaſe of white Hellebore ponder<g ref="char:EOLhyphen"/>ed and finely ſearc'd, two parts to one of the <hi>Opium,</hi> of the Cream as much as will ſerve to bring it to the conſiſtency of a Pill, beat them well together and dry them in a diſh covered from duſt; cut if you will the maſs into thin ſlices, and ſo moiſten it again, beat<g ref="char:EOLhyphen"/>ing it up ſtill, and repeating this till the maſs when dried weigh double in reſpect to the Species: then with oyl of Turpentine alone beat it up to the conſiſtency of a Pill, and keep it about three weeks ere you uſe it, and it is fit for uſe. Onely the older it is, the bet<g ref="char:EOLhyphen"/>ter it will be.</p>
+            <p>Comparing this and the former receipt, we ſhall not ſtand in need of a judge endued with the wiſedom of <hi>Solomon</hi> to decide who is the true Father of the child, one of a mea<g ref="char:EOLhyphen"/>ner capacity may determine the controver<g ref="char:EOLhyphen"/>ſie; and if any ſhall ſtill doubt, I ſhall de<g ref="char:EOLhyphen"/>ſire them to read ſeriouſly Mr. <hi>Starkey</hi>'s <hi>Pyro<g ref="char:EOLhyphen"/>techny</hi>-aſſerted, and he ſhall there though in more obſcure termes ſee the foundation and ground of it.</p>
+            <pb n="35" facs="tcp:59582:23"/>
+            <p>It will be needleſs to ſay any thing for the explaining this Receipt, having ſpoken al<g ref="char:EOLhyphen"/>ready to all the ingredients. But here you may ſee ſome variety in the <hi>Alkali.</hi> The way preſcribed to puriſie the Salt is worth your ſerious conſideration. The <hi>Tartar</hi> cannot be brought to ſo pure a Salt by burn<g ref="char:EOLhyphen"/>ing, but you ſhall have ſome feculency ad<g ref="char:EOLhyphen"/>hering to it, which by this means is taken away.</p>
+            <p>The Art and manner of the compoſition is of ſingular concernment. The <hi>Opium</hi> (whereof that which comes from the Streights is beſt) cannot be cleanſed without diſſolution, in the doing whereof not any of the vertue is diminiſhed: and if it be done with ſpirit of wine it rather helps to the correcting of it.</p>
+            <p>The ſeverall moiſtenings and dryings of the Pill is of excellent uſe; by this means the Sulphureous part of the <hi>Opium,</hi> in which the malignity conſiſts, is exceedingly waſt<g ref="char:EOLhyphen"/>ed, and totally ſubdued.</p>
+            <p>And now whoſoever thou art that ſhalt un<g ref="char:EOLhyphen"/>dertake the making of this Pill, ſee that thou beeſt very cautious. Thou dealeſt with dangerous ſubjects. It is not a work for a raw or careleſs youth.</p>
+            <p>Two or three things are much feared in
+<pb n="36" facs="tcp:59582:24"/>the publiſhing this Receipt. The one, leſt that the making of this Pill be adventured on by indiſcreet perſons that want judgment, or careleſs and raſh perſons that ſhall without due caution and circumſpection mixe theſe things together, and they not being brought to maturity, may retain their noxious qua<g ref="char:EOLhyphen"/>lityes, and ſo have dangerous conſequen<g ref="char:EOLhyphen"/>ces. I have ſeverall times heard Mr. <hi>Mathews</hi> ſay, that he durſt not truſt bis people in this, for if his eye was not on them, they were very ſubject to do amiſs, an evident expe<g ref="char:EOLhyphen"/>rience of whoſe careleſneſs was ſeen in the laſt preparation for the Pills he made be<g ref="char:EOLhyphen"/>fore his death; but let ſuch perſons conſider that this Receipt is not made authentick by being inſerted in the diſpenſatories, &amp; there<g ref="char:EOLhyphen"/>fore if any miſcary by it through want of due preparation, they muſt not expect to have their fault buried in the Grave, without being queſtioned, as is too uſuall in thoſe miſcariages that are by authoriſed Phyſicians.</p>
+            <p>The ſecond thing feared is leſt this falling into the hands of mercenary men (who mind their own gain, more then other mens good) this medicine may be ſpoiled, and rendred inefficatious; and that either by making uſe of decayed drugs, which have loſt their virtue, or ſuch as are adulterated,
+<pb n="37" facs="tcp:59582:24"/>as much of the <hi>Opium</hi> which is brought from the <hi>Jndies</hi> is; if credit be to be given to that excellent <hi>Herbariſt,</hi> Mr. <hi>John Parkinſon.</hi> Or it may be ſpoiled with additionall mixtures, that are either of little value, or of a contrary nature, either of which may ſo clog the due ingredients, that they ſhall not be able to put forth their true vertue. This hath been the lot of many excellent medicaments which have been reported to be of admirable ef<g ref="char:EOLhyphen"/>ficacy in their firſt Originall and riſe, but now they are become contemptible, and deſtitute of that power and virtue they at firſt appeared endued withall. The Epi<g ref="char:EOLhyphen"/>thites of <hi>Sophiſticate,</hi> and adulterated, are not more commonly, than truly given to many medicines that are uſually ſold. I will in<g ref="char:EOLhyphen"/>ſtance only in the Oyle of Amber, a thing of ſingular vertues, if rightly prepared from the pure and ſimple amber, many authors have written very highly of the praiſe there<g ref="char:EOLhyphen"/>of, and my own experience, with the relati<g ref="char:EOLhyphen"/>ons I have had from ſeverall perſons, who have had of this from me, hath confir<g ref="char:EOLhyphen"/>med the truth of their writings. For farther ſatiſfaction, you may read what Mr. <hi>Mathews</hi> affirms of it in ſeveral places of his book, principally in that part, which gives directi<g ref="char:EOLhyphen"/>ons how to draw it. But this Oyle of Amber
+<pb n="38" facs="tcp:59582:25"/>that is commonly ſold by the Druggiſts, and Apothecaryes, is by ſome of them that are more candid, and ingenuous than others, acknowledged to be a great part of it Oyle of Turpentine, or at the beſt Oyle of Spike, only the Amber over ruling, in giving it the ſent and tincture; for (ſay they) were it pure and ſimple without mixture, it could not be afforded at that low price it is ſold at: How weak and inconſiderate are thoſe per<g ref="char:EOLhyphen"/>ſons, that having occaſion to make uſe of that Oyl, or other the like things, will to ſave a little in the price, buy traſh to put into their bodys, or for outward applications, which is likely to afford them little or no releif; and how Sordid are thoſe practitioners, that will obtrude it upon their patients, or di<g ref="char:EOLhyphen"/>rect them to the uſe of ſuch debilitated and invallid medicaments.</p>
+            <p>The third thing feared is, leſt the very names of the <hi>Opium</hi> and <hi>Hellebores</hi> do ſo affright weak and timerous perſons, that they ſhall not dare to make uſe of it: and truly this is the bugbear that doctors do la<g ref="char:EOLhyphen"/>bour to deter people from the uſe of it by, Take heed (ſay they) what you do, there is <hi>Opium</hi> in it, and <hi>Opium</hi> will be <hi>Opium</hi> when all is done to it that can be done, whereas this <hi>Opium</hi> is a principall ingredient, in ma<g ref="char:EOLhyphen"/>ny
+<pb n="39" facs="tcp:59582:25"/>of their prime medicines, as I have for<g ref="char:EOLhyphen"/>merly ſhewed, and to uſe Mr. <hi>Parkinſon's</hi> own words, It is an ingredient of much reſpect in thoſe great compoſitions of <hi>Theri<g ref="char:EOLhyphen"/>ca, Mithridaetum</hi> &amp;c. the like may be ſaid of the <hi>Hellebores.</hi>
+            </p>
+            <p>But let ſuch perſons conſider, that as the onely wiſe God placed Cherubims with a fla<g ref="char:EOLhyphen"/>ming ſword to keep the way of the Tree of Life; ſo he hath fenced and armed thoſe ſim<g ref="char:EOLhyphen"/>ples which have moſt virtue in them for the recovery of mans loſt health with ſome ve<g ref="char:EOLhyphen"/>nome that muſt by wiſedom and diligence be deſtroyed by them that would enjoy the be<g ref="char:EOLhyphen"/>nefit of them. The buſh that beareth the fra<g ref="char:EOLhyphen"/>grant Roſe hath its ſharp prickles, and the Bee that affordeth the ſweeteſt hony is armed with a ſting, which he that will gather the ho<g ref="char:EOLhyphen"/>ney muſt take heed of. And if it be lawful to compare temporal things with ſpiritual, I may ſay, true Chymical preparations do ſome<g ref="char:EOLhyphen"/>what reſemble the work of the All-powerful God in the myſtery of Regeneration, where<g ref="char:EOLhyphen"/>in he makes choice of the worſt of men many times to make of them the moſt active inſtru<g ref="char:EOLhyphen"/>ments for the propagating his Truth and glo<g ref="char:EOLhyphen"/>ry. <hi>Saul</hi> the greateſt of ſinners is made by him the chiefeſt of the Apoſtles, and one that laboured more abundantly than all the reſt
+<pb n="40" facs="tcp:59582:26"/>in the work of the Miniſtry: where true mortification and renovation paſſes upon ſuch as have been the moſt deadly enemies to the Church and cauſe of Chriſt, they become the moſt glorious inſtruments for the advan<g ref="char:EOLhyphen"/>cing his kingdome. Yea ſuch is that inbred corruption that is adhaerent to the beſt of natures, that as Chriſt ſaith, except a man be born again, he cannot ſee the Kingdom of God. This is a received truth in the <hi>Theory,</hi> but how a verſe are we generally from em<g ref="char:EOLhyphen"/>bracing it in the practical part of it. <hi>Paul</hi> tells us <hi>Gal.</hi> 2.20. that he is crucified with Chriſt, and that he lives not but Chriſt liveth in him, he was taken off from the activity of his own naturall principles, and now ſole<g ref="char:EOLhyphen"/>ly caried forth, and acted by the Spirit of Chriſt: do not our actions declare the con<g ref="char:EOLhyphen"/>trary of us? there is none I ſuppoſe ſo void of reaſon, as to affirm that their earthly ſenſuall earnall actings are the product of that pure, and imaculate Spirit of the Lord Jeſus. On that all that challenge the name of Chriſtian, would ſeriouſly confider this; he is a true Chriſtian indeed, that can ſay with <hi>Paul:</hi> the world is crucified unto me, and I unto the world: I am no more ena<g ref="char:EOLhyphen"/>moured with, or have my affections ſet up<g ref="char:EOLhyphen"/>on the world, or the things of it, than they
+<pb n="41" facs="tcp:59582:26"/>would be upon a dead carkaſs, yea ſuch a contemptible carkaſs, as hath been executed on a Croſſe or Gallows: and I am crucified to the world: A man that is dead can feel no injury that is done to him, ſtrip him, cut him, mangle him, diſpoſe of his body at your pleaſure he is not ſenſible of it. This is the happy condition of a true Chriſtian, his delight is not in the things of this world, and makes it not his buſineſs to ſcrape them together, and grow great here, neither is he affected with the affronts, and injuries that are inflicted by the world, he is above the rage and malice thereof, and he is made thus free by true mortification. It is a hard thing to be breif in this ſubject, I hope it will not be taken amiſſe being (I conceive) a ſeaſonable word.</p>
+            <p>In the like though far inferior manner is it with medicinall ſimples, the moſt truculent of them, when once there is true mortifica<g ref="char:EOLhyphen"/>tion and deſtruction of their virulency, are made not only ſafe, but admirably efficaci<g ref="char:EOLhyphen"/>ous; yea the beſt of them, have their crudi<g ref="char:EOLhyphen"/>ties, and noxious qualities, which by decocti<g ref="char:EOLhyphen"/>ons, digeſtions, or ſome other previous pre<g ref="char:EOLhyphen"/>parations, are to be deſtroyed before they can be made wholly ſafe and Salutiferous.
+<pb n="42" facs="tcp:59582:27"/>This work is fully done in this Pill by them that rightly prepare it. The roſe is gathered to your hand, the ſting is taken from the Bee, and you may ſuck the hony without dan<g ref="char:EOLhyphen"/>ger.</p>
+            <p>And now at the laſt I deſire you to remem<g ref="char:EOLhyphen"/>ber that I ſaid this is not an univerſal medicin, ſome diſeaſes are ſo fixt and radicated, that they require that which is more powerful, of which ſort are ſome medicaments prepared from minerall <hi>Sulphurs,</hi> of which the author of this Pil is ſeldom unfurniſhed. But though it be not univerſal, yet it is of a very large extent, and he that ſhall with a patient waiting for a bleſſing upon it, continue the uſe of it, wil not have need to ſeek for other, in the diſeaſes to which the particular ingredi<g ref="char:EOLhyphen"/>ents are appropriated, or that ariſe from the diſtempers, that they are powerful in the re<g ref="char:EOLhyphen"/>moving of: And now for the help of weak memories, I ſhal adjoin at the end the copy of a Bill given ordinarily out with them, wherin you have a catalogue of diſeaſes, not at an ad<g ref="char:EOLhyphen"/>venture heaped together, but ſuch as by cer<g ref="char:EOLhyphen"/>tain experience this Pill hath been found helpfull in.</p>
+         </div>
+         <div type="postscript">
+            <pb n="43" facs="tcp:59582:27"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Courteous friend, and friendly Reader,</salute>
+            </opener>
+            <p>HAving now for a years time compleat been acquainted with Mr. <hi>George Ken<g ref="char:EOLhyphen"/>dall,</hi> the Author of this foregoing Treatiſe, and being informed by him of the inſtructi<g ref="char:EOLhyphen"/>ons he received from the <hi>Unlearned Alchymiſt</hi> as to the preparing of that <hi>Diaphoretick</hi> and <hi>Diuretick</hi> Pill, I had occaſion to acquaint my ſelf with his preparation as to the Encheire<g ref="char:EOLhyphen"/>tical part, and in ſome particulars did inform him, how by no great pains, and with a little coſt he might better that preparation ten<g ref="char:EOLhyphen"/>fold; and moreover, how to exalt that very proceſs onely by a ſecret in operation, be<g ref="char:EOLhyphen"/>yond what Mr. <hi>Mathews</hi> ever wrought or knew, according to which he hath made his Pills to my knowledge as far exceeding the Unlearned Alchymiſts, (which I fear will grow each day worſe in his Widows hand,
+<pb n="44" facs="tcp:59582:28"/>and is no more then himſelf feared in his life time, of which I am witneſs) as a pebble is exceeded in worth and value by a Diamond, as thoſe who deſire may experiment in both; I may judge my ſelf able to diſcern and de<g ref="char:EOLhyphen"/>termine as to this particular, being the firſt Author of the Proceſs that ever was known by effect or writing in Europe or the World, and from whom he received what he had, for other ends, and on other terms then he pra<g ref="char:EOLhyphen"/>ctiſed after he knew it: Several hundreds (among whom are many of Honor and Lear<g ref="char:EOLhyphen"/>ning) know, that the ſecret was known and uſed by me in the year 1651, five years be<g ref="char:EOLhyphen"/>fore his name on this ſcore was known in the world; they therefore who will, may be<g ref="char:EOLhyphen"/>lieve my teſtimony, or elſe may by proof be convinced. How far yet this preparation hath by me been advanced, I ſhall declare at large in a Tractate ſpeedily intended to be made publick, in which I ſhall give a large account, and make a deſirable diſcovery of ſuch me<g ref="char:EOLhyphen"/>dicinal ſecrets, in compariſon of which this will be accounted trivial, although really ex<g ref="char:EOLhyphen"/>celling all Galenical Compoſitions. This for the honor and juſtification of this learned and truly ingenous Author I thought good to add, as a teſtimony and vindication of him from that fogg which hath endeavored
+<pb n="45" facs="tcp:59582:28"/>to choak his credit, raiſed by an envious Muck-fork, raking in a Dunghil in hopes to find a precious Pearle which is challenged by</p>
+            <closer>
+               <signed>GEORGE STARKEY <hi>who is a Philoſopher by the Fire.</hi>
+               </signed>
+               <dateline>St. <hi>Thomas Apoſtles,</hi> next door to black Lyon Court, at the Coffee-ſign, <date>
+                     <hi>Octob.</hi> 19. 1663.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="46" facs="tcp:59582:29"/>
+            <p>THough by reaſon of my living at a diſtance from <hi>London,</hi> I could not ap<g ref="char:EOLhyphen"/>pear at the beginning of this work; yet I conceive it concerns me to give my te<g ref="char:EOLhyphen"/>ſtimony to what hath been in this Book affirmed: How our friend Mr. <hi>Mathews</hi> com<g ref="char:EOLhyphen"/>municated the receit to me, and <hi>Jonathan Loddington,</hi> you have it faithfully related by <hi>Jonathan Loddington:</hi> when it was given to <hi>George Kendal,</hi> I was preſent; and can teſti<g ref="char:EOLhyphen"/>fie, that Mr. <hi>Mathews</hi> did affirm, that what alteration he had made in his Pill, after he had given the receipt to us, was wholly con<g ref="char:EOLhyphen"/>tained in this latter; and this he then gave him upon this condition (waving all former propoſals that had paſt between them) that he ſhould promiſe to perform ſuch Arti<g ref="char:EOLhyphen"/>cles as he himſelf ſhould (when he had con<g ref="char:EOLhyphen"/>venient leiſure) draw up: But it pleaſed God ſuddenly after this, to viſit him with ſickneſs; and in that ſickneſs, he did charge us all, as you have heard, to make it pub<g ref="char:EOLhyphen"/>lick; if he lived, not to do it; which we had done before this, had we not been pre<g ref="char:EOLhyphen"/>vented
+<pb n="47" facs="tcp:59582:29"/>by that engagement, being made known to us, which he was under to Mr. <hi>Starkey,</hi> the firſt Authour of it; but now this is taken off by Mr. <hi>Starkeys</hi> con<g ref="char:EOLhyphen"/>ſent; ſo that now you have it not onely by the appointment of the reputed, but alſo by the conſent of the true Authour: you have it alſo fully explained, as it was the purpoſe of Mr. <hi>Mathews</hi> to have done, had he pub<g ref="char:EOLhyphen"/>liſhed it himſelf, ſo far as I could apprehend by what I have heard from him. As for the groundleſs complaints, and falſe aſſertions of the Widow, I think them not worth taking notice of, our conſciences bear us witneſs, that we have not done her any injury, or falſified any truſt repoſed in us by her de<g ref="char:EOLhyphen"/>ceaſed Husband. This is thought fit to be added by me, who am</p>
+            <closer>
+               <signed>
+                  <hi>A lover of Truth and Peace</hi> AHASUERUS FROMANTEEL.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="48" facs="tcp:59582:30"/>
+            <p>IF any perſon (notwithſtanding what hath been here aſſerted) be unſatisfied as to the truth of the Receipt, I ſhall here give my teſtimony. I brought Mr. <hi>Mathews</hi> firſt ac<g ref="char:EOLhyphen"/>quainted with Mr. <hi>Starkey,</hi> of whom we both received Pills for our own uſe; and finding benefit by them, we had the manner of pre<g ref="char:EOLhyphen"/>paring them communicated to us, and I firſt made them for Mr. <hi>Mathews,</hi> and made triall of them upon my ſelf before he durſt venture on them, and afterwards made much for him, and was acquainted with what variation he made; and when Mr. <hi>Mathews</hi> told me of his deſign to make it publique, I oppoſed him in it, knowing what engagement he lay under, to Mr. <hi>Starkey;</hi> and alſo fearing the Pill might be ſpoyled of his vertue and efficacy when it come to be made common by indiſcreet per<g ref="char:EOLhyphen"/>ſons: but ſeeing it is now publique, I do affirm it to be truly and ſincerely done, whatever by any may be ſaid to the contrary, and to this I ſubſcribe my name,</p>
+            <closer>
+               <signed>AMBROSE ANDREWES.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="49" facs="tcp:59582:30"/>
+            <p>THe whole buſineſs touching the Pill being now made manifeſt, and the Pill it ſelf herein publiſh'd, will clearly expel all the clouds within that horizon, and <hi>Anne Ma<g ref="char:EOLhyphen"/>thews</hi> ends in relation to perſons and things about it will plainly appear to all judicious men, and in that reſpect I have the leſs occa<g ref="char:EOLhyphen"/>ſion to ſpeak; yet it will be neceſſary for me to ſignifie how I came to the knowledge thereof, which was as followeth: Being with <hi>Anne Mathews,</hi> ſhe told me her ſelf that her Husband had communicated his Pill, I deſi<g ref="char:EOLhyphen"/>red to know the perſons with whom he had left it, which ſhe refuſed to inform me, ſome time after I underſtood with whom; and I ſpake with <hi>Jonathan Loddington</hi> about it, who gave me a relation of the buſineſs; And alſo gave me the Receipts, and further told me that he would communicate it: and in re<g ref="char:EOLhyphen"/>gard I find theſe expreſſions in <hi>Anne Ma<g ref="char:EOLhyphen"/>thews</hi> Book; And if it be proved that any of theſe men have ſold the Receits thereof to any one of the commonalty, &amp;c. and that her agent was with me, after it was Printed
+<pb n="50" facs="tcp:59582:31"/>to know whether I gave mony for it, I do hereby ſignifie as I did then to him, that I had it freely in reſpect to &amp; upon the account of <hi>Rich. Mathews</hi> will, and I do declare to the world that I find the Pill made by <hi>Richa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Mathews</hi> Receipt, as good and as effectual to the beſt of my underſtanding, as any that I had of him while he was living, having had a large experience of both upon my own body, and am confirmed by many more that have proved it, which will now appear to be truth to the world by the Receipts themſelves: and doubtleſs all rational men wil find that there is no difficulty in the operation or preparation thereof. The Pils are both good, Take which thou findeſt moſt ſutable to thee. Let <hi>George Starkey</hi> have his due, <hi>Ric. Mathew<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had the ori<g ref="char:EOLhyphen"/>ginal from him, as <hi>George Starkey</hi> and <hi>Ambroſe Andrews</hi> told me, and <hi>Ambroſe Andrews</hi> affir<g ref="char:EOLhyphen"/>med to me that he had it from <hi>George Starkey</hi> at the ſame time that <hi>Richard Mathews</hi> had it, but <hi>Richard Mathews</hi> hath added, and differs from him in time and manner of preparation. <hi>Anne Mathews</hi> agent upon her account offe<g ref="char:EOLhyphen"/>red me the Pill upon extraordinary conditi<g ref="char:EOLhyphen"/>ons, and a reward if I would not make or ſell any other but hers, which I had no need to do, having as good, and being able to make as good as any; and I had it as legally
+<pb n="51" facs="tcp:59582:31"/>and as much right ſo to do; now how cauſe<g ref="char:EOLhyphen"/>leſſe, and to what end ſhe made uſe of my name is evident; this I have done in reſpect to truth, the publique good, and <hi>Richard Ma<g ref="char:EOLhyphen"/>thews</hi> will, which was, that its vertue, ſafety and efficacy ſhould be made known and ma<g ref="char:EOLhyphen"/>nifeſt in reſpect to publique good, not that a cloud ſhould be caſt over and a flood after it, who am a friend to, and a Lover of the pub<g ref="char:EOLhyphen"/>lique welfare in realitie.</p>
+            <closer>
+               <signed>NATHANIEL MERRY.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="52" facs="tcp:59582:32"/>
+            <head>An effectual
+<list>
+                  <item>Diaphoretick,</item>
+                  <item>Diuretick,</item>
+               </list>
+Pill, purgeth by
+<list>
+                  <item>Sweating,</item>
+                  <item>Urin</item>
+               </list>
+            </head>
+            <p>THis Pill being compoſed of Simples of a very powerful operation, purged from their churliſh and malignant quality by an excellent Balſom of long preparation, is by it made ſo amicable to Nature, that it hath upon ample experience been found effectual for curing the diſeaſes following:</p>
+            <p>It removes the Ague, if two Pills be taken two hours before the fit comes, and a Glaſſe or two of Sack drank after it, and the patient put in a warm bed diſpoſed for ſweat, &amp; one Pill taken each intermitting night. The like for Feavers, only inſtead of Sack drink White<g ref="char:EOLhyphen"/>wine. It helpeth the Head-ach, Tooth-ach, Cold, Cough or Surſeit. Dries up dropping Rhumes &amp; Catarrhs which deſtroy the Lungs. It removes pains of the breaſt, trembling of the heart, cleanſeth the blood; helpeth fits of ſudden Swoonings and Convulſions. If White<g ref="char:EOLhyphen"/>wine be drank after it, it cleanſeth the Reins and Kidneys of gravel, openeth the urinary paſſages, drives out the ſtone if not coagula<g ref="char:EOLhyphen"/>ted, and oftentimes with the urine ſends forth like jags of cloth or paper of ſundry co<g ref="char:EOLhyphen"/>lours. Alſo it ſends forth by vomit or other<g ref="char:EOLhyphen"/>wiſe
+<pb n="53" facs="tcp:59582:32"/>clotted blood; breaks inward Impoſt-humations to aſtoniſhment. Effectually eaſeth pains and aches got by Surfeits, Colds or Bruiſes; whereby many ſecret and hidden griefs are cured, which otherwiſe could not be diſcovered. It is an eaſie and ſound cure of the <hi>French</hi> diſeaſe, if uſed according to ſuch direction as may be given. It cures ſome kind of Gouts and gives eaſe in all, eſpecially if the places affected be annointed with true and ſimple Oyl of Amber, which is rare to be had at any Apothecaries, but may be had with the Pill. It helpeth the ſhaking and trem<g ref="char:EOLhyphen"/>bling of the joints, ſtrengthneth the brains, encreaſeth memory, revives and comforts the heart. It is very fafe for women with child, and of excellent efficacy for women in Child-bed, to eaſe them of their pains, and bring them to reſt. It openeth obſtructions, and in like manner ſtayes fluxes. It ſtrength<g ref="char:EOLhyphen"/>ens and opens the Spleen, and expels wind in an incredible manner. Dries up Hydropi<g ref="char:EOLhyphen"/>call Humors. It is with ſafety and good ſucceſs given to infants as ſoon as born, and after to expel winds. Brings to reſt, and pre<g ref="char:EOLhyphen"/>vents or cures the Rickets. It helpeth in Rup<g ref="char:EOLhyphen"/>tures. It hath been found very effectual for haſtening and making firm the cure of wounds, all ſort of ſores and ſwellings. Nei<g ref="char:EOLhyphen"/>ther is there any diſeaſe in old or young, in
+<pb n="54" facs="tcp:59582:33"/>which it doth not afford releif and eaſe, if not a perfect cure. It works not as ordinary Phyſick, which is pretended to take away that humor the Diſeaſe feeds upon, and ſo to weaken Nature, that it may conquer the Diſtemper, by which means it many times kills the Patient with the Diſeaſe: But con<g ref="char:EOLhyphen"/>trarily, this being a ſoveraign Cordial, for<g ref="char:EOLhyphen"/>tifies Nature, enabling it to grapple with it's enemies, and hereby becomes effectuall for the curing of ſeveral Diſeaſes. If it cures not all that uſe it, know, that it is the bleſſing of the Lord upon all means that makes them effectual when he pleaſes, that ſo all may uſe them with ſubmiſſion to, and dependance upon him.</p>
+            <p>The ordinary doſe for men and women, is about 10. or 12. grains, or the bigneſs of a great grey peaſe; to children of 2. years old the quantity of a barley corn; to them new born, of a pins-head; every one may increaſe the quantity as they find themſelves able to bear it, and their neceſſity requires. It is ordinarily taken at going to bed, with a little Sack, White-wine, Ale or Beer drank after it, to carry it down, and care taken of Cold both in and after the ſweating.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Epiſtle page <hi>1,</hi> line <hi>2,</hi> for <hi>Thetis</hi> read <hi>Treatiſe.</hi> page <hi>5,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine <hi>2,</hi> for <hi>down</hi> read <hi>dumb.</hi>
+            </p>
+            <pb facs="tcp:59582:32"/>
+         </div>
+      </back>
+   </text>
+</TEI>
